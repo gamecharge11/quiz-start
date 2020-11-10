@@ -1,8 +1,8 @@
-body{
-    background-color: yellow;
+#Q1{
+    border-color: lime;
+    padding: 1%;
 }
 
-a{
-    text-decoration: none;
-    color: black;
+body{
+    background-color: silver;
 }
